@@ -1,0 +1,11 @@
+body {
+    font: "Roboto";
+    text-align: center;
+    background: linear-gradient(to right,
+                #5f5f73, #89dcab,#add9f7);
+}
+    
+h1,h2,b {
+    color: white;
+    font-weight: 50px;
+}
